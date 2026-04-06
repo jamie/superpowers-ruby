@@ -9,5 +9,19 @@
   "homepage": "https://github.com/lucianghinda/superpowers-ruby",
   "repository": "https://github.com/lucianghinda/superpowers-ruby",
   "license": "MIT",
-  "keywords": ["skills", "ruby", "rails", "tdd", "minitest", "hotwire", "turbo", "stimulus", "brakeman", "debugging", "collaboration", "best-practices", "workflows"]
+  "keywords": [
+    "skills",
+    "ruby",
+    "rails",
+    "tdd",
+    "minitest",
+    "hotwire",
+    "turbo",
+    "stimulus",
+    "brakeman",
+    "debugging",
+    "collaboration",
+    "best-practices",
+    "workflows"
+  ]
 }
